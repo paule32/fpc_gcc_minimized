@@ -1,2 +1,2 @@
-# fpc_gcc_minimized
- a test to minimalist fpc and gcc
+# win64
+fpc 4096 bytes .exe cutable
